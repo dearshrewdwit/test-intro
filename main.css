@@ -1,0 +1,12 @@
+/* selector */
+/* element/tag selector */
+body {
+    /* rule */
+    /* property: value; */
+    background-color: rgb(28, 28, 99);
+}
+
+p {
+    color: red;
+    font-size: 50px;
+}
